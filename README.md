@@ -1,1 +1,1 @@
-# python programs practiced from self learning resource questions. Hope its helpful to you guys too..
+# python programs practiced from self learning resources. Hope its helpful to you guys too..
